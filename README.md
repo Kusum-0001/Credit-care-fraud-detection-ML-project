@@ -18,4 +18,4 @@ Achieved 99% accuracy.
 Class imbalance handled with SMOTE / undersampling.
 
 <h2> Confusion Matrix </h2>
-![confusion matrix]()
+[confusion matrix](https://github.com/Kusum-0001/Credit-care-fraud-detection-ML-project/blob/main/Confusion%20Metrix.png)
