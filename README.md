@@ -22,7 +22,8 @@ Class imbalance handled with SMOTE / undersampling.
 
 
 <h2> Model Accuracy </h2>
-(https://github.com/Kusum-0001/Credit-care-fraud-detection-ML-project/blob/main/model%20accuracy.png)
+<img width="704" height="473" alt="image" src="https://github.com/user-attachments/assets/be2965c0-c924-4d15-a4cc-aba4a826b7a5" />
+
 
 <h2> Deploying Model using Streamlit </h2>
 
