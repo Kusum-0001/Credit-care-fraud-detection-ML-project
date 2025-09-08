@@ -26,8 +26,10 @@ Class imbalance handled with SMOTE / undersampling.
 
 
 <h2> Deploying Model using Streamlit </h2>
+<h2> steps for deployment </h2>
 
 <h2> Import some libraries </h2>
+
 import streamlit as st
 
 import pandas as pd
@@ -37,6 +39,7 @@ import joblib
 from sklearn.metrics import classification_report, confusion_matrix
 
 <h2>load trained model </h2>
+
 @st.cache_resource
 
 def load_model():
@@ -45,18 +48,23 @@ def load_model():
     
     return model
 
-<h2> load model </h2>
+ load model
+ 
 clf = model
 
-<h2> Set title </h2>
+ Set title
 
-<h2> add some display button </h2>
+ add some display button 
 
 
-<h2> run in terminal <h2>
+ run in terminal 
+ 
 envirment\Scripts\activate
 
 when environment activate then write
 
 Streamlit run file.py
+
+when a model deployed then it opens a browser where it ask a test csv file.Then upload a test file . Then it predict fraud or non fraud.
+
 
