@@ -67,4 +67,9 @@ Streamlit run file.py
 
 when a model deployed then it opens a browser where it ask a test csv file.Then upload a test file . Then it predict fraud or non fraud.
 
+<img width="940" height="636" alt="image" src="https://github.com/user-attachments/assets/3c748ecd-98b8-4051-8f9c-7e3fb9561dd8" />
+
+as u can see there's Number of fraudulent transactions detected 27120 and rest are detected non-fraudulent out of 555719.
+
+
 
