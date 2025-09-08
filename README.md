@@ -5,6 +5,8 @@
 <h2>🛠️ Tech Stack</h2>
 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
+Streamlit ,Joblib 
+
 Jupyter Notebook
 
 Features: Transaction details, Amount, Class (Fraud/Not Fraud).
